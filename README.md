@@ -1,6 +1,8 @@
 # Solving the BLASSO using Lasserre hierarchies
 
-![dual_certif](dual_certif.png)
+<p align="center">
+  <img src="dual_certif.png">
+</p>
 
 This repository allows to solve the Beurling LASSO with polynomial measurements
 using Lasserre hierarchies such as decribed in [1]. The `example.ipynb` notebook allows to reproduce the experiments presented in this paper.
